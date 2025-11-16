@@ -25,6 +25,7 @@ body {
     line-height: 1.6;
     color: var(--text-dark);
     overflow-x: hidden;
+    padding-top: 80px;
 }
 
 /* Smooth scrolling */
@@ -101,7 +102,7 @@ p {
 .hero-section {
     background: var(--gradient-primary);
     color: var(--white);
-    padding: 120px 0 80px;
+    padding: 160px 0 80px;
     position: relative;
     overflow: hidden;
 }
